@@ -1,11 +1,15 @@
 *{
-margin: 0 ;
-padding: 0;
 font-family: 'Arial', sans-serif;
-
 }
-             
-h1 {
+
+
+.banner {
+background-image: url(ivaleiva.github.io/Snow Mountains Wallpapers Desktop Wallpaper.jpg)
+}
+
+
+
+/*h1 {
 font size: 50px
 color: brown;
 position: relative;
@@ -21,7 +25,7 @@ border: 1px solid #FFF;
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
-  }
+  }*/
   
 
 
