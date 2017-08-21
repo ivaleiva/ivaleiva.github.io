@@ -12,20 +12,20 @@ h1 {
   }
 
 
-.header {
+.banner {
   background-image: url("http://www.qygjxz.com/data/out/140/4054836-lake-wallpaper.jpg");
   background-position: center;
   background-size: cover;
-  border: 1px solid #FFF;
-  
   height: 700px;
   width: 100%;  
-  margin: 20em;
-  position: relative;
-  text-align: center;
-  top: 25%;
   
   
 }
 
-
+#banner-conten{
+ border: 1px solid #FFF;
+ margin: auto;
+ position: relative;
+ text-align: center;
+ top: 25%;
+}
