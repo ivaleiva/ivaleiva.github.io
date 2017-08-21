@@ -7,7 +7,9 @@ h1 {
 font-family: Quicksand, Arial,sans-serif;
 font-size: 2em;
 font-weight: bold;
+color: white;
 text-aling: center;
+  
   
 }
 
@@ -18,10 +20,11 @@ text-aling: center;
   background-size: cover;
   height: 700px;
   width: 100%;  
-  margin: 0 auto;
+  margin: 20em;
   position: relative;
   text-align: center;
   top: 25%;
+  
   
 }
 
