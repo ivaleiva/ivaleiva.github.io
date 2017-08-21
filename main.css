@@ -3,11 +3,17 @@ margin: 0 ;
 padding: 0;
 }
 
+h1 {
+font-family: Quicksand, Arial,serif;
+}
+
 
 .header {
   background-image: url("http://www.planwallpaper.com/static/images/518169-backgrounds.jpg");
   background-position: center center;
   background-size: cover;
   height: 700px;
-  width: 100%;
+  width: 100%;  
 }
+
+
