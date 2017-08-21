@@ -2,33 +2,9 @@
 font-family: 'Arial', sans-serif;
 }
 
-
-.banner {
-background-image: url(ivaleiva.github.io/Snow Mountains Wallpapers Desktop Wallpaper.jpg)
+.image{
+  width: 300px;
+  height: 200px; 
+  display: block;
+  margin: 0px auto;
 }
-
-
-
-/*h1 {
-font size: 50px
-color: brown;
-position: relative;
-top: 30%;
-text-aling: center
-border: 1px solid #FFF;
-  
-}
-
-.banner {
-  background-image: url(ivaleiva.github.io/Snow Mountains Wallpapers Desktop Wallpaper.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  background-attachment: fixed;
-  }*/
-  
-
-
-
-  
-
