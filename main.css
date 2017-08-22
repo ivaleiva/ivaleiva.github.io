@@ -1,10 +1,14 @@
 
 
 .banner {
-background-image; url(ivaleiva.github.io/Snow Mountains Wallpapers Desktop Wallpaper.jpg)
+background-image; url("ivaleiva.github.io/Snow Mountains Wallpapers Desktop Wallpaper.jpg")
+/*background-color:*/
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center center;  
 }
 
 .banner-content {
-color: black;
+color: brown;
 text-align: center;
 }
