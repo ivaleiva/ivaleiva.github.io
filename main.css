@@ -54,12 +54,12 @@ min-width: 300px;
 max-width: 600px; 
 }
 
-p{
+/*p{
 font-size: 1rem;  
 min-width: 300px;
 max-width: 600px; 
 
-}
+}*/
 
 li{
 display: inline;  
@@ -90,7 +90,7 @@ background-repeat: no-repeat;
 background-attachment: fixed;
 background-position: center center;  
 padding: 1.25rem;
-margin: 1.25rem;
+margin-top: 1.25rem;
 }
   
   .banner-content {
@@ -128,16 +128,17 @@ max-width: 600px;
 }
 
 
-p{
-font-size: 1rem;  
+/*p{
+font-size: 2.2rem;  
 min-width: 300px;
 max-width: 600px; 
 
-}
+}*/
 
 li{
 display: inline;  
 float: left;
+font-size: 2.2rem;
 }
 
 li a {
@@ -149,12 +150,12 @@ li a {
 }
 
 
-ul {
+/*ul {
   list-style-type: none;
   overflow: hidden;
   background-color: #333;
  
-}
+}*/
 
   
   
