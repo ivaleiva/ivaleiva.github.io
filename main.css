@@ -24,14 +24,21 @@ margin-top: 1.25rem;
 .banner-content {
 color: white;
 text-align: left;
-max-width: 300px;
 border: 1px solid white;
 padding: 0.95rem;
 min-width: 300px;
 max-width: 600px;
 
 }
-
+  .navigation{
+color: black;
+text-align: center;
+font-weight: bold;
+border: 1px solid black;
+padding: 0.95rem;
+margin: 0.95rem;
+width: 100%;
+  }
 
 h1 {
 font-size: 4rem;  
@@ -47,7 +54,32 @@ min-width: 300px;
 max-width: 600px; 
 }
 
+p{
+font-size: 1rem;  
+min-width: 300px;
+max-width: 600px; 
 
+}
+
+li{
+display: inline;  
+float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #333;
+}
 
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px){
@@ -70,6 +102,8 @@ min-width: 90%;
 max-width: 100%; 
 min-height: 600px;
 }
+  
+
  
   h1 {
 font-size: 6rem;  
@@ -84,5 +118,7 @@ font-size: 3rem;
 min-width: 300px;
 max-width: 600px; 
 }
+
+  
   
 }
