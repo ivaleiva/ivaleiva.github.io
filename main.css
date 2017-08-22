@@ -68,6 +68,19 @@ margin: 0.95rem;
 min-width: 500px;
 max-width: 900px; 
 }
+ 
+  h1 {
+font-size: 8rem;  
+min-width: 300px;
+max-width: 600px; 
   
+}
+
+
+h3{
+font-size: 3rem;  
+min-width: 300px;
+max-width: 600px; 
+}
   
 }
