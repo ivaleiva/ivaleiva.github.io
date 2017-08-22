@@ -10,7 +10,6 @@ font-size: 16px;
 
 
 .banner {
-  
 background-image: url("http://everythingworthdoing.com/wp-content/uploads/2016/12/cold-snow-winter-mountain.jpeg");
 /*background-color:*/
 background-repeat: no-repeat;
@@ -19,7 +18,6 @@ background-position: center center;
 padding: 1.25rem;
 margin-top: 1.25rem;
 min-width: 100%;
-
 }
 
 .banner-content {
@@ -29,9 +27,9 @@ border: 1px solid white;
 padding: 0.95rem;
 min-width: 300px;
 max-width: 600px;
-
 }
-  .navigation{
+
+.navigation{
 color: black;
 text-align: center;
 font-weight: bold;
@@ -39,13 +37,12 @@ border: 1px solid black;
 padding: 0.6rem;
 margin: 0rem;
 width: 100%;
-  }
+}
 
 h1 {
 font-size: 4rem;  
 min-width: 300px;
 max-width: 600px; 
-  
 }
 
 
@@ -59,7 +56,6 @@ p{
 font-size: 1rem;  
 min-width: 300px;
 max-width: 600px; 
-
 }
 
 li{
@@ -68,19 +64,18 @@ float: left;
 }
 
 li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 0.1rem 1rem;
-    text-decoration: none;
+display: block;
+color: white;
+text-align: center;
+padding: 0.1rem 1rem;
+text-decoration: none;
 }
 
 
 ul {
-  list-style-type: none;
-  overflow: hidden;
-  background-color: #333;
- 
+list-style-type: none;
+overflow: hidden;
+background-color: #333;
 }
 
 
