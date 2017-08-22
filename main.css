@@ -142,15 +142,16 @@ max-width: 600px;
 li{
 display: inline;  
 float: center;
-font-size: 2.2rem;
+font-size: 2.rem;
 }
 
 li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 0.1rem 1rem;
+    padding: 1rem 1rem;
     text-decoration: none;
+    float:center;
 }
 
 
