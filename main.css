@@ -8,10 +8,11 @@ background-image: url("https://github.com/ivaleiva/ivaleiva.github.io/blob/maste
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-position: center center;  
+
 }
 
 .banner-content {
 color: brown;
 text-align: center;
-max-width: 30px;
+max-width: 90px;
 }
