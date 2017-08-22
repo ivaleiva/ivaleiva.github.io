@@ -12,8 +12,8 @@ background-image: url("http://everythingworthdoing.com/wp-content/uploads/2016/1
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-position: center center;  
-padding: 20px;
-margin-top: 20px;
+padding: 1.25em;
+margin-top: 1.25em;
 }
 
 .banner-content {
@@ -21,7 +21,7 @@ color: white;
 text-align: center;
 max-width: 300px;
 border: 1px solid white;
-padding: 15px;
+padding: 0.95em;
 }
 
 
