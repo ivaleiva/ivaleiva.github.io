@@ -8,9 +8,9 @@ html{
 font-size: 16px;
 }
 
+
 .banner {
   
-
 background-image: url("http://everythingworthdoing.com/wp-content/uploads/2016/12/cold-snow-winter-mountain.jpeg");
 /*background-color:*/
 background-repeat: no-repeat;
@@ -43,4 +43,31 @@ h3{
 font-size: 1.5rem;  
 min-width: 300px;
 max-width: 600px; 
+}
+
+
+
+
+@media only screen and (max-width: 480px){
+  .banner {
+  
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center center;  
+padding: 1.25rem;
+margin: 1.25rem;
+}
+  
+  .banner-content {
+color: white;
+text-align: left;
+max-width: 300px;
+border: 1px solid white;
+padding: 0.95rem;
+margin: 0.95rem;
+min-width: 300px;
+max-width: 600px; 
+}
+  
+  
 }
