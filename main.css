@@ -78,24 +78,39 @@ ul {
   margin: 0; 
 }
 
-table{
-min-width: 100%
-background-color: black;
+table {
+  height: 40%;
+  left: 10%;
+  margin: 20px auto;
+  overflow-y: scroll;
+  position: static;
+  width: 100%;
 }
 
+thead th {
+  background: #lack;
+  color: #FFF;
+  font-size: 3rem;
+  font-weight: 100;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
 
-td {
-  border: 1px solid white;
+tr {
+  background: grey;
+  border-bottom: 1px solid white;
+  margin-bottom: 5px;
+}
+
+th, td {
+  font-weight: 400;
+  padding: 20px;
   text-align: left;
-  font-size: 2rem;
+  width: 33.3333%;
+  font-size: 18px
+  
 }
 
-
-th{
-border: 1px solid white;
-font-size: 3rem;
-text-align: center
-}
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px){
   .banner { 
