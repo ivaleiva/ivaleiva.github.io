@@ -81,7 +81,7 @@ ul {
 table {
   height: 40%;
   left: 10%;
-  margin-top: 1rem;
+  margin-top: 0rem;
   overflow-y: scroll;
   position: static;
   width: 100%;
@@ -89,17 +89,17 @@ table {
 }
 
 thead th {
-  background: #D2B48C;
+  background:  #F0FFFF;
   color: white;
   font-size: 1.9rem;
-  font-weight: bold;
+  font-weight: 1000;
   letter-spacing: 0.125rem;
   text-transform: uppercase;
   text-align: center;
 }
 
 tr {
-  background: #D2B48C;
+  background:  #F0FFFF;
   border-bottom: 1px solid white;
   margin-bottom: 5px;
   
