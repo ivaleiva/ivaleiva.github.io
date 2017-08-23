@@ -89,7 +89,7 @@ table {
 }
 
 thead th {
-  background:   #2F4F4F;
+  background:   #333;
   color: white;
   font-size: 1.9rem;
   font-weight: 1000;
@@ -99,7 +99,7 @@ thead th {
 }
 
 tr {
-  background:   #2F4F4F;
+  background:   #333;
   border-bottom: 1px solid white;
   margin-bottom: 5px;
   
