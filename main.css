@@ -81,23 +81,24 @@ ul {
 table {
   height: 40%;
   left: 10%;
-  margin: 0;
+  margin-top: 1rem;
   overflow-y: scroll;
   position: static;
   width: 100%;
+
 }
 
 thead th {
-  background: black;
+  background: #333;
   color: white;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 100;
   letter-spacing: 0.125rem;
   text-transform: uppercase;
 }
 
 tr {
-  background: grey;
+  background: #333;
   border-bottom: 1px solid white;
   margin-bottom: 5px;
   
@@ -108,8 +109,9 @@ th, td {
   padding: 1.25rem;
   text-align: left;
   width: 33.3333%;
-  font-size: 2.8rem;
+  font-size: 1.8rem;
   text-transform: uppercase;
+  color: white;
 }
 
 
