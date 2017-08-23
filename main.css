@@ -89,16 +89,17 @@ table {
 }
 
 thead th {
-  background: #333;
+  background: #D2B48C;
   color: white;
-  font-size: 2rem;
-  font-weight: 100;
+  font-size: 1.9rem;
+  font-weight: bold;
   letter-spacing: 0.125rem;
   text-transform: uppercase;
+  text-align: center;
 }
 
 tr {
-  background: #333;
+  background: #D2B48C;
   border-bottom: 1px solid white;
   margin-bottom: 5px;
   
