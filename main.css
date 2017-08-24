@@ -91,11 +91,11 @@ table {
   overflow-y: scroll;
   position: static;
   width: 100%;
-
+  opacity: 0.4;
 }
 
 thead th {
-  background:   #333;
+  background:   #806000;
   color: white;
   font-size: 1.9rem;
   font-weight: 1000;
