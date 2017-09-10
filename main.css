@@ -130,6 +130,26 @@ img {
 }
 
 
+#burger_1 {
+
+li{
+display: block;  
+float: left;
+margin: 0;
+color: black;
+text-align: center;
+padding: 0.1rem 1rem;
+text-decoration: none;
+}
+
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0; 
+}
+  
+}
 
 
 
