@@ -121,6 +121,29 @@ th, td {
 }
 
 
+img {
+    display: block;
+    margin-left: 1.25rem;
+    margin-top:1.25rem;
+    width: 30%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px){
   .banner { 
     
